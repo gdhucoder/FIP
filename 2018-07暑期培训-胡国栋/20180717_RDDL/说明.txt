@@ -1,0 +1,2 @@
+提前预习RDDL.pdf、RDDL_Tutorial_ICAPS_2014.pdf
+自行下载并安装rddlsim，地址https://github.com/ssanner/rddlsim
