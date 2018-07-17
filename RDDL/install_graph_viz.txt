@@ -1,0 +1,5 @@
+1. first install graphviz-2.28.0
+2. restart computer, win+R ,input "echo %PATH%", you should see this: C:\Program Files (x86)\Graphviz 2.28\bin
+3. test: cmd line:
+    1: .\run.bat rddl.viz.RDDL2Graph files/rddl/examples\dbn_prop.rddl inst_dbn
+    2: execute RDDL2Graph class in Eclipse, set parameters : files/rddl/examples\dbn_prop.rddl inst_dbn
