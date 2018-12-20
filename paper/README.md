@@ -1,6 +1,7 @@
 # 论文目录
 
 
+* Planning
+	* [2018-State-Space Abstractions for Probabilistic Inference](https://github.com/gdhucoder/FIP/blob/master/paper/2018_Stefan%2C%20Schr%2C%20Bader_Unknown_State-Space%20Abstractions%20for%20Probabilistic%20Inference%20A%20Systematic%20Review.pdf)
+	* [2018-MCTS-Minimax Hybrids with State Evaluations](https://github.com/gdhucoder/FIP/blob/master/paper/2018_Baier%2C%20Winands_IJCAI%20International%20Joint%20Conference%20on%20Artificial%20Intelligence_MCTS-minimax%20hybrids%20with%20state%20evaluations.pdf)
 
-
-[State-Space Abstractions for Probabilistic Inference](./2018_Stefan, Schr, Bader_Unknown_State-Space Abstractions for Probabilistic Inference A Systematic Review.pdf)
