@@ -6,5 +6,6 @@
 	* [2018-MCTS-Minimax Hybrids with State Evaluations](https://github.com/gdhucoder/FIP/blob/master/paper/2018_Baier%2C%20Winands_IJCAI%20International%20Joint%20Conference%20on%20Artificial%20Intelligence_MCTS-minimax%20hybrids%20with%20state%20evaluations.pdf)
 * Terminology
 	* [Minimax](https://en.wikipedia.org/wiki/Minimax)
+	* [alphabeta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 
 Please inform me if there is any infringement.
