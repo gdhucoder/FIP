@@ -7,5 +7,9 @@
 * Terminology
 	* [Minimax](https://en.wikipedia.org/wiki/Minimax)
 	* [alphabeta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+* 资料
+	* [RDDL_Tutorial_2012](https://github.com/gdhucoder/FIP/blob/master/paper/RDDL_Tutorial_2012.pdf)
+	* [RDDL_Tutorial_2014](https://github.com/gdhucoder/FIP/blob/master/paper/RDDL_Tutorial_ICAPS_2014.pdf)
+	* [KE Knowledge Engineering](https://github.com/gdhucoder/FIP/blob/master/paper/T4-Knowledge-Engineering-in-Planning.pdf)
 
 Please inform me if there is any infringement.
