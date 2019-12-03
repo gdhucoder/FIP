@@ -1,0 +1,31 @@
+[x]Tackling Sparse Rewards in Real-Time Games with Statistical Forward Planning Methods
+[x]Evolving Action Abstractions for Real-Time Planning in Extensive-Form Games
+[x]Real-Time Planning as Decision-Making under Uncertainty
+[x]Allocating Planning Effort When Actions Expire
+[x]Learning Features and Abstract Actions for Computing Generalized Plans
+[x]How to Combine Tree-Search Methods in Reinforcement Learning
+[x]Measurement Maximizing Adaptive Sampling with Risk Bounding Functions
+[x]Deep Reactive Policies for Planning in Stochastic Nonlinear Domains
+[x]Refining Abstraction Heuristics during Real-Time Planning
+[x]Solving Multiagent Planning Problems with Concurrent Conditional Effects
+[x]Lifelong Path Planning with Kinematic Constraints for Multi-Agent Pickup and Delivery
+[x]Deep Learning for Cost-Optimal Planning: Task-Dependent Planner Selection
+[x]Planning for LTLf /LDLf Goals in Non-Markovian Fully Observable Nondeterministic Domains
+[x]Planning with Expectation Models
+[x]Regular Decision Processes: A Model for Non-Markovian Domains
+[x]Strong Fully Observable Non-Deterministic Planning with LTL and LTLf Goals
+[x]Counterexample-Guided Strategy Improvement for POMDPs Using Recurrent Neural Networks
+[x]A Logical Semantics for PDDL+
+[x]Towards a Unified View of AI Planning and Reactive Synthesis
+[x]Stochastic Planning with Lifted Symbolic Trajectory Optimization
+[x]Discovery of Optimal Solution Horizons in Non-Stationary Markov Decision Processes with Unbounded Rewards
+[x]Size Independent Neural Transfer for RDDL Planning
+[x]Learning Classical Planning Strategies with Policy Gradient
+[x]The MADP Toolbox: An Open Source Library for Planning and Learning in (Multi-)Agent Systems
+[x]Probabilistic Planning with Reduced Models
+[x]Modeling and Planning with Macro-Actions in Decentralized POMDPs
+[x]Representing and planning with interacting actions and privacy
+[x]Optimizing group learning: An evolutionary computing approach
+[x]Learning action models with minimal observability
+[x]Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems
+[x]Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning
